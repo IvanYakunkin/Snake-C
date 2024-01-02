@@ -1,2 +1,2 @@
 # Snake-C
-This is a snake game in C
+This is a simple snake game in C
